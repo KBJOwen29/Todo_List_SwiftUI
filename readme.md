@@ -6,3 +6,5 @@ To use the application:
 2. Clone the repository
 3. Open the Project in Xcode
 4. Run the project
+
+It lets you list down things you need to do
